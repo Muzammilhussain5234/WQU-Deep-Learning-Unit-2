@@ -6,3 +6,4 @@ THe focus of this repository is to train, optimize, Neural networks, using diffe
 #  Tools and libraries
 Python | PyTorch | Scikit-learn | Pandas | Matplotlib | Seaborn
 
+# All credit goes to world quant university for providing me a such type of course
