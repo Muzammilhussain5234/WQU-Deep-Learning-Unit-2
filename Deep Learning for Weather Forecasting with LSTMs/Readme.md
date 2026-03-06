@@ -51,7 +51,7 @@ Detailed graphs, metrics, and experiments are available inside the notebooks.
 
 ##  Technologies Used
 - Python  
-- TensorFlow / PyTorch (mention whichever you used)  
+- PyTorch (mention whichever you used)  
 - NumPy  
 - Pandas  
 - Matplotlib / Seaborn  
